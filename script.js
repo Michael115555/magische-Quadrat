@@ -25,4 +25,4 @@ function getFibonacciNumber(n) {
 
 // Beispielaufruf:
 let result = getFibonacciNumber(3);
-console.log(result); // Gibt [0, 1, 1, 2, 3] aus
+console.log(result); // Gibt [0, 1, 1, 2, 3] aus 
